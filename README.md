@@ -33,6 +33,13 @@ I have experience in:
 - Created and maintained several web projects, including e-commerce websites, blogging platforms, and portfolio sites.
 - Received positive feedback and appreciation from the developer community for my help.
 
+## 📈 Things I own
+
+I currently own
+
+-  pg media group
+- pg media radio (pg media group radio)
+
 ## 🌐 Let's Connect
 
 I'm always excited to connect with fellow developers and enthusiasts. Let's collaborate, learn, and build amazing things together!
