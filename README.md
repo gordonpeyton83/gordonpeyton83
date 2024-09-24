@@ -44,7 +44,10 @@ I currently own
 
 I'm always excited to connect with fellow developers and enthusiasts. Let's collaborate, learn, and build amazing things together!
 
-- 💼 Any freelance work? Feel free to [contact me](mailto:gordonpeyton83@outlook.com) :) 
+- 💼 Any freelance work? Feel free to [contact me](mailto:gordonpeyton83@outlook.com) :)
 - 💬 Ask me about anything; I am happy to help!
 
 ## Thank you for visiting my profile. Happy coding!
+
+-@pg-media-group
+
