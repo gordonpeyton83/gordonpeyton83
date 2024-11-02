@@ -1,7 +1,7 @@
 <img src="assets/logos/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="assets/logos/animated-flame-01.gif" width="1.75%" align="left"/>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=white&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Gordonpeyton83+and+Welcome+to+my+Profile!" alt="Hey, I'm pg69yt and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=white&center=true&vCenter=true&width=940&lines=hey%2C+I'm+Gordonpeyton83+and+Welcome+to+my+Profile!" alt="Hey, I'm pg69yt and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 
   <img src="assets/logos/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
